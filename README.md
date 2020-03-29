@@ -28,5 +28,22 @@ The analyis of the election shows that:
 
 
 ## Challenge Overview 
+The task was to analyze county data similarily to candidate data. 
+1. Create necessary variables for counties. 
+2. Calculate all the county votes.
+3. Calculate percentage of county votes for all counties. 
+4. Determine the county with the largest turnout. 
 
-## Challenge Summary 
+## Challenge Summary
+The results showed the following: 
+  - There were 3 counties:
+    - Denver
+    - Jefferson
+    - Arapahoe
+  - The county results:
+    - Denver received 306,055 votes which was 82.8% of the votes.
+    - Jefferson received 38,855 votes which was 10.5% of the votes. 
+    - Arapahoe received 24,801 votes which was 6.7% of the votes. 
+  - The county with the largest turnout was:
+    - Denver 
+  
