@@ -1,5 +1,5 @@
 # Election_Analysis
-Election results analysis using Python. 
+
 ## Project Overview 
 A Colorado Board of Elections employee has given you the following tasks to complete the lection audit of a recent local congressional election.
 
